@@ -1,3 +1,5 @@
+package hO4;
+
 import java.awt.*;
 import java.applet.*;
 
