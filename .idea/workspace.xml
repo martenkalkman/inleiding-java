@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a17edc1a-168a-4bac-be4b-55792c5f858a" name="Default Changelist" comment="First java">
+      <change afterPath="$PROJECT_DIR$/src/hO5/Variabelen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hO5/Variabelen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hO6/Hoofdstuk6x1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hO6/Rekenen1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hO4/Praktijkopdracht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hO4/Praktijkopdracht.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1haaiIZ2aJlAaMkFh5jJrW4whzZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Applet.Rekenen1">
+    <configuration name="Hoofdstuk6x1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk6x1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rekenen1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hO6.Rekenen1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variabelen2 (1)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hO5.Variabelen2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h5V2 (1)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hO5.h5V2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h5V2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h5.h5V2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Applet.Rekenen1" />
+        <item itemvalue="Applet.Hoofdstuk6x1" />
+        <item itemvalue="Applet.Variabelen2 (1)" />
+        <item itemvalue="Applet.h5V2 (1)" />
+        <item itemvalue="Applet.h5V2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a17edc1a-168a-4bac-be4b-55792c5f858a" name="Default Changelist" comment="" />
+      <created>1600251782770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600251782770</updated>
+      <workItem from="1600251783816" duration="1069000" />
+      <workItem from="1600252865180" duration="124000" />
+      <workItem from="1600253001346" duration="16000" />
+      <workItem from="1600256637340" duration="135000" />
+      <workItem from="1600329824926" duration="82000" />
+      <workItem from="1600426840335" duration="1044000" />
+      <workItem from="1600690609468" duration="2949000" />
+      <workItem from="1600855756002" duration="4488000" />
+      <workItem from="1600860739471" duration="4091000" />
+      <workItem from="1600931475211" duration="3381000" />
+      <workItem from="1601502000371" duration="4704000" />
+      <workItem from="1601659008028" duration="295000" />
+      <workItem from="1601669136633" duration="234000" />
+      <workItem from="1601980370356" duration="3273000" />
+      <workItem from="1602066465763" duration="823000" />
+      <workItem from="1602067417054" duration="55000" />
+      <workItem from="1602074605931" duration="960000" />
+    </task>
+    <task id="LOCAL-00001" summary="First java">
+      <created>1600252038749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600252038749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First java">
+      <created>1600693557786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600693557786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First java">
+      <created>1600856830173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600856830173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First java">
+      <created>1600859294630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600859294630</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First java">
+      <created>1600867392259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600867392259</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First java">
+      <created>1600867397282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600867397282</updated>
+    </task>
+    <task id="LOCAL-00007" summary="First java">
+      <created>1601503335717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503335718</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First java" />
+    <option name="LAST_COMMIT_MESSAGE" value="First java" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="130" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600931884971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600931884971" />
+    <state x="646" y="259" key="FileChooserDialogImpl" timestamp="1600252955435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="259" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1600252955435" />
+    <state width="1673" height="192" key="GridCell.Tab.0.bottom" timestamp="1602075664840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601669370436" />
+    <state width="1673" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1602075664840" />
+    <state width="1673" height="192" key="GridCell.Tab.0.center" timestamp="1602075664840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601669370436" />
+    <state width="1673" height="192" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1602075664840" />
+    <state width="1673" height="192" key="GridCell.Tab.0.left" timestamp="1602075664840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601669370436" />
+    <state width="1673" height="192" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1602075664840" />
+    <state width="1673" height="192" key="GridCell.Tab.0.right" timestamp="1602075664840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1328" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601669370436" />
+    <state width="1673" height="192" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1602075664840" />
+    <state x="368" y="162" key="SettingsEditor" timestamp="1600252853203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1600252853203" />
+    <state x="459" y="250" key="Vcs.Push.Dialog.v2" timestamp="1600252067406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="459" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1600252067406" />
+    <state x="249" y="138" key="new project wizard" timestamp="1600252958121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="138" key="new project wizard/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1600252958121" />
+  </component>
+</project>
