@@ -20,28 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a17edc1a-168a-4bac-be4b-55792c5f858a" name="Default Changelist" comment="First java">
-      <change afterPath="$PROJECT_DIR$/src/Ho10/Ho10x1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho10/Ho10x2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho10/Ho10x3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho10/Ho10x4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho10/Ho10xPraktijk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho11/Ho11x1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho11/Ho11x2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho11/Ho11x3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho11/Ho11x4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho11/Ho11x5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho12/Ho12x1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho12/Ho12x2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho12/Ho12x3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho12/Ho12x4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ho12/Ho12x5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO6/PraktijkopdrachthO6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO6/Rekenen2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO6/Rekenen3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO8/Ho8x1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO8/Ho8x2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO8/Ho8x3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hO8/Ho8xPraktijk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ho13/Ho13x1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ho13/Ho13x2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ho13/PraktijkHo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,21 +57,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Ho12x1">
-    <configuration name="Ho11x1" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ho11x1" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ho11x2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ho11.Ho11x2" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.PraktijkHo3">
     <configuration name="Ho11x5" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ho11x5" />
       <module name="inleiding-java" />
@@ -105,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ho13x1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ho13x1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ho8x2" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ho8x2" />
       <module name="inleiding-java" />
@@ -112,31 +86,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="PraktijkHo3" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraktijkHo3" />
+      <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.Ho11x1" />
-      <item itemvalue="Applet.Ho11x2" />
       <item itemvalue="Applet.Ho8x2" />
       <item itemvalue="Applet.Ho11x5" />
       <item itemvalue="Applet.Ho12x1" />
+      <item itemvalue="Applet.Ho13x1" />
+      <item itemvalue="Applet.PraktijkHo3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.PraktijkHo3" />
+        <item itemvalue="Applet.Ho13x1" />
         <item itemvalue="Applet.Ho12x1" />
         <item itemvalue="Applet.Ho11x5" />
         <item itemvalue="Applet.Ho8x2" />
-        <item itemvalue="Applet.Ho11x2" />
-        <item itemvalue="Applet.Ho11x1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +158,13 @@
       <workItem from="1604514045826" duration="820000" />
       <workItem from="1604518428007" duration="267000" />
       <workItem from="1604518968962" duration="673000" />
-      <workItem from="1604522443752" duration="953000" />
+      <workItem from="1604522443752" duration="1060000" />
+      <workItem from="1604530610495" duration="42000" />
+      <workItem from="1605089367735" duration="1445000" />
+      <workItem from="1605718452793" duration="1550000" />
+      <workItem from="1605741816526" duration="14000" />
+      <workItem from="1605770986674" duration="6000" />
+      <workItem from="1606376584487" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="First java">
       <created>1600252038749</created>
@@ -260,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602075813595</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="First java">
+      <created>1604523463463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604523463463</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,26 +279,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="646" y="259" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1600252955435" />
-    <state width="1479" height="141" key="GridCell.Tab.0.bottom" timestamp="1604523090573">
+    <state width="1479" height="141" key="GridCell.Tab.0.bottom" timestamp="1605720014765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1173" height="103" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603353410091" />
-    <state width="1479" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604523090573" />
-    <state width="1479" height="141" key="GridCell.Tab.0.center" timestamp="1604523090573">
+    <state width="1479" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1605720014765" />
+    <state width="1479" height="141" key="GridCell.Tab.0.center" timestamp="1605720014764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1173" height="103" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603353410091" />
-    <state width="1479" height="141" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604523090573" />
-    <state width="1479" height="141" key="GridCell.Tab.0.left" timestamp="1604523090572">
+    <state width="1479" height="141" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1605720014764" />
+    <state width="1479" height="141" key="GridCell.Tab.0.left" timestamp="1605720014764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1173" height="103" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603353410091" />
-    <state width="1479" height="141" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604523090572" />
-    <state width="1479" height="141" key="GridCell.Tab.0.right" timestamp="1604523090573">
+    <state width="1479" height="141" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1605720014764" />
+    <state width="1479" height="141" key="GridCell.Tab.0.right" timestamp="1605720014764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1173" height="103" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603353410091" />
-    <state width="1479" height="141" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604523090573" />
+    <state width="1479" height="141" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1605720014764" />
     <state width="1478" height="298" key="GridCell.Tab.1.bottom" timestamp="1603322952006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -340,10 +323,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1600252853203" />
-    <state x="459" y="250" key="Vcs.Push.Dialog.v2" timestamp="1604523395956">
+    <state x="459" y="250" key="Vcs.Push.Dialog.v2" timestamp="1604523471442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="459" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604523395956" />
+    <state x="459" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604523471442" />
     <state x="283" y="147" width="1338" height="725" key="dock-window-1" timestamp="1603322952121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
